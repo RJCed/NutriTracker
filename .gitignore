@@ -1,0 +1,16 @@
+# Compiled binaries and object files
+nutritracker
+nutritracker-debug
+*.o
+*.out
+
+# User-specific runtime data (generated automatically on first run)
+data/foods.csv
+data/food_log.csv
+data/settings.csv
+data/*.csv.tmp
+
+# Editor / OS artifacts
+*.swp
+*~
+.DS_Store
